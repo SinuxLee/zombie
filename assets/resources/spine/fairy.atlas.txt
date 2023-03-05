@@ -1,0 +1,132 @@
+
+fairy.png
+size: 720,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL
+  rotate: false
+  xy: 646, 155
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+armR
+  rotate: false
+  xy: 511, 135
+  size: 50, 110
+  orig: 50, 110
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 613, 20
+  size: 56, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 463, 365
+  size: 122, 124
+  orig: 122, 124
+  offset: 0, 0
+  index: -1
+box_item
+  rotate: false
+  xy: 587, 320
+  size: 92, 69
+  orig: 92, 69
+  offset: 0, 0
+  index: -1
+dress1
+  rotate: false
+  xy: 463, 247
+  size: 101, 116
+  orig: 101, 116
+  offset: 0, 0
+  index: -1
+dress2
+  rotate: false
+  xy: 563, 100
+  size: 75, 59
+  orig: 75, 59
+  offset: 0, 0
+  index: -1
+dress3
+  rotate: false
+  xy: 640, 85
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+dress4
+  rotate: false
+  xy: 511, 88
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 563, 161
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 587, 391
+  size: 130, 98
+  orig: 130, 98
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 463, 2
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+l0
+  rotate: false
+  xy: 2, 4
+  size: 459, 485
+  orig: 459, 485
+  offset: 0, 0
+  index: -1
+leaf
+  rotate: false
+  xy: 551, 34
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+legL
+  rotate: false
+  xy: 681, 324
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: -1
+legR
+  rotate: false
+  xy: 671, 10
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1
+wingL
+  rotate: false
+  xy: 463, 78
+  size: 46, 167
+  orig: 46, 167
+  offset: 0, 0
+  index: -1
+wingR
+  rotate: false
+  xy: 566, 226
+  size: 147, 92
+  orig: 147, 92
+  offset: 0, 0
+  index: -1

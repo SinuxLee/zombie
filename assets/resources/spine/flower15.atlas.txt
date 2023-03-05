@@ -1,0 +1,83 @@
+
+flower15.png
+size: 436,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL
+  rotate: false
+  xy: 369, 2
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+armR_1
+  rotate: false
+  xy: 369, 73
+  size: 63, 66
+  orig: 63, 66
+  offset: 0, 0
+  index: -1
+armR_2
+  rotate: false
+  xy: 232, 60
+  size: 81, 37
+  orig: 81, 37
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 3
+  size: 87, 136
+  orig: 87, 136
+  offset: 0, 0
+  index: -1
+bot
+  rotate: false
+  xy: 232, 99
+  size: 135, 40
+  orig: 135, 40
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 265, 20
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 315, 51
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 211, 9
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+face3
+  rotate: false
+  xy: 305, 3
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+fx0
+  rotate: false
+  xy: 91, 82
+  size: 139, 57
+  orig: 139, 57
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 91, 2
+  size: 118, 78
+  orig: 118, 78
+  offset: 0, 0
+  index: -1

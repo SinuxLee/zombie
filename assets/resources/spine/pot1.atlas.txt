@@ -1,0 +1,55 @@
+
+pot1.png
+size: 196,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 53
+  size: 124, 125
+  orig: 124, 125
+  offset: 0, 0
+  index: -1
+leaf1
+  rotate: false
+  xy: 128, 84
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 128, 55
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+leaf3
+  rotate: false
+  xy: 2, 2
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+leaf4
+  rotate: false
+  xy: 128, 131
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+leaf6
+  rotate: false
+  xy: 119, 8
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+left5
+  rotate: false
+  xy: 64, 3
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1

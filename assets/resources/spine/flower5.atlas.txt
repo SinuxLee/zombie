@@ -1,0 +1,62 @@
+
+flower5.png
+size: 172,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL
+  rotate: false
+  xy: 73, 8
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+armR
+  rotate: false
+  xy: 73, 45
+  size: 59, 30
+  orig: 59, 30
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 73, 114
+  size: 71, 59
+  orig: 71, 59
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 69, 171
+  orig: 69, 171
+  offset: 0, 0
+  index: -1
+bot1
+  rotate: false
+  xy: 73, 77
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+bot2
+  rotate: false
+  xy: 134, 42
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 120, 14
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 134, 77
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1

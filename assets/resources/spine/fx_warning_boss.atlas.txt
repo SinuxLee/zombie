@@ -1,0 +1,62 @@
+
+fx_warning_boss.png
+size: 1504,680
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 545, 387
+  size: 541, 186
+  orig: 541, 186
+  offset: 0, 0
+  index: -1
+cover
+  rotate: false
+  xy: 946, 575
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+deco
+  rotate: false
+  xy: 461, 652
+  size: 483, 23
+  orig: 483, 23
+  offset: 0, 0
+  index: -1
+deco1
+  rotate: false
+  xy: 2, 662
+  size: 457, 13
+  orig: 457, 13
+  offset: 0, 0
+  index: -1
+e0
+  rotate: false
+  xy: 2, 527
+  size: 541, 123
+  orig: 541, 123
+  offset: 0, 0
+  index: -1
+e1
+  rotate: false
+  xy: 2, 233
+  size: 538, 292
+  orig: 538, 292
+  offset: 0, 0
+  index: -1
+skull
+  rotate: false
+  xy: 1088, 221
+  size: 354, 454
+  orig: 354, 454
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 2
+  size: 1499, 217
+  orig: 1499, 217
+  offset: 0, 0
+  index: -1

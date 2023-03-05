@@ -1,0 +1,113 @@
+{
+"skeleton": { "hash": "WVOXunx0QNtXhBL6OWZ+PNrbFZE", "spine": "3.6.53", "width": 140, "height": 161, "images": "E:/YT/SPINE/吉格斯/击中/images" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "base", "parent": "root" }
+],
+"slots": [
+	{ "name": "jizhong", "bone": "base", "attachment": "jizhong_00000" },
+	{ "name": "jizhong2", "bone": "base", "color": "ffffff9f", "attachment": "jizhong_00000", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"jizhong": {
+			"jizhong_00000": { "width": 128, "height": 128 },
+			"jizhong_00001": { "width": 128, "height": 128 },
+			"jizhong_00002": { "width": 128, "height": 128 },
+			"jizhong_00003": { "width": 128, "height": 128 },
+			"jizhong_00004": { "width": 128, "height": 128 },
+			"jizhong_00005": { "width": 128, "height": 128 },
+			"jizhong_00006": { "width": 128, "height": 128 },
+			"jizhong_00007": { "width": 128, "height": 128 }
+		},
+		"jizhong2": {
+			"jizhong_00000": { "width": 128, "height": 128 },
+			"jizhong_00001": { "width": 128, "height": 128 },
+			"jizhong_00002": { "width": 128, "height": 128 },
+			"jizhong_00003": { "width": 128, "height": 128 },
+			"jizhong_00004": { "width": 128, "height": 128 },
+			"jizhong_00005": { "width": 128, "height": 128 },
+			"jizhong_00006": { "width": 128, "height": 128 },
+			"jizhong_00007": { "width": 128, "height": 128 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"jizhong": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.2667, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "jizhong_00000" },
+					{ "time": 0.0333, "name": "jizhong_00001" },
+					{ "time": 0.0667, "name": "jizhong_00002" },
+					{ "time": 0.1, "name": "jizhong_00003" },
+					{ "time": 0.1333, "name": "jizhong_00004" },
+					{ "time": 0.1667, "name": "jizhong_00005" },
+					{ "time": 0.2, "name": "jizhong_00006" },
+					{ "time": 0.2333, "name": "jizhong_00007" },
+					{ "time": 0.2667, "name": null }
+				]
+			},
+			"jizhong2": {
+				"color": [
+					{ "time": 0, "color": "ffffff9f", "curve": "stepped" },
+					{ "time": 0.2667, "color": "ffffff9f" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "jizhong_00000" },
+					{ "time": 0.0333, "name": "jizhong_00001" },
+					{ "time": 0.0667, "name": "jizhong_00002" },
+					{ "time": 0.1, "name": "jizhong_00003" },
+					{ "time": 0.1333, "name": "jizhong_00004" },
+					{ "time": 0.1667, "name": "jizhong_00005" },
+					{ "time": 0.2, "name": "jizhong_00006" },
+					{ "time": 0.2333, "name": "jizhong_00007" },
+					{ "time": 0.2667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"base": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.2667, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.2667, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.2667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

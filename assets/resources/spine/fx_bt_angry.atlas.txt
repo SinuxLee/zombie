@@ -1,0 +1,13 @@
+
+fx_bt_angry.png
+size: 172,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e0
+  rotate: false
+  xy: 2, 2
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1

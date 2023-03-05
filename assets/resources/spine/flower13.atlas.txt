@@ -1,0 +1,69 @@
+
+flower13.png
+size: 332,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 15
+  size: 88, 111
+  orig: 88, 111
+  offset: 0, 0
+  index: -1
+bot
+  rotate: false
+  xy: 189, 82
+  size: 140, 44
+  orig: 140, 44
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 166, 4
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 166, 36
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+face3
+  rotate: false
+  xy: 137, 80
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 218, 5
+  size: 84, 29
+  orig: 84, 29
+  offset: 0, 0
+  index: -1
+leaf1
+  rotate: false
+  xy: 92, 61
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 92, 2
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+leaf3
+  rotate: false
+  xy: 225, 39
+  size: 90, 41
+  orig: 90, 41
+  offset: 0, 0
+  index: -1

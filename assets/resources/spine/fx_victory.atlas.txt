@@ -1,0 +1,83 @@
+
+fx_victory.png
+size: 1668,412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banner
+  rotate: false
+  xy: 2, 216
+  size: 821, 192
+  orig: 821, 192
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 1006, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 628, 95
+  size: 112, 119
+  orig: 112, 119
+  offset: 0, 0
+  index: -1
+fade
+  rotate: false
+  xy: 614, 11
+  size: 390, 82
+  orig: 390, 82
+  offset: 0, 0
+  index: -1
+l0
+  rotate: false
+  xy: 457, 128
+  size: 169, 86
+  orig: 169, 86
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 234, 2
+  size: 221, 212
+  orig: 221, 212
+  offset: 0, 0
+  index: -1
+leaf
+  rotate: false
+  xy: 1185, 80
+  size: 273, 328
+  orig: 273, 328
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1460, 63
+  size: 204, 345
+  orig: 204, 345
+  offset: 0, 0
+  index: -1
+trophy
+  rotate: false
+  xy: 825, 126
+  size: 358, 282
+  orig: 358, 282
+  offset: 0, 0
+  index: -1
+trumpet
+  rotate: false
+  xy: 2, 2
+  size: 230, 212
+  orig: 230, 212
+  offset: 0, 0
+  index: -1
+win
+  rotate: false
+  xy: 457, 54
+  size: 155, 72
+  orig: 155, 72
+  offset: 0, 0
+  index: -1

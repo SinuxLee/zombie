@@ -1,0 +1,13 @@
+{
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/temp": true,
+        "**/*.meta":true,
+        "**/creator.d.ts":true
+    },
+    "files.exclude": {
+        "**/node_modules": true,
+        "**/temp": true,
+        "**/*.meta":true
+    }
+}

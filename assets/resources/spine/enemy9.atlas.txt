@@ -1,0 +1,118 @@
+
+enemy9.png
+size: 284,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: false
+  xy: 2, 67
+  size: 184, 221
+  orig: 184, 221
+  offset: 0, 0
+  index: -1
+armLUp
+  rotate: false
+  xy: 188, 108
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+armLlow
+  rotate: false
+  xy: 237, 15
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+armRUP
+  rotate: false
+  xy: 235, 45
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+armRlow
+  rotate: false
+  xy: 243, 102
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 188, 203
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1
+footL
+  rotate: false
+  xy: 55, 7
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1
+footR
+  rotate: false
+  xy: 2, 37
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+guitar
+  rotate: false
+  xy: 2, 290
+  size: 266, 185
+  orig: 266, 185
+  offset: 0, 0
+  index: -1
+handL
+  rotate: false
+  xy: 188, 61
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+handR
+  rotate: false
+  xy: 204, 3
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 69, 36
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+legLUP
+  rotate: false
+  xy: 2, 2
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+legLlow
+  rotate: false
+  xy: 133, 17
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+legRlow
+  rotate: false
+  xy: 169, 17
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+legRup
+  rotate: false
+  xy: 188, 159
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+shengjichenggong.png
+size: 662,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang1
+  rotate: false
+  xy: 2, 3
+  size: 458, 42
+  orig: 458, 42
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 2, 47
+  size: 222, 117
+  orig: 222, 117
+  offset: 0, 0
+  index: -1
+suipian1
+  rotate: true
+  xy: 597, 102
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+suipian2
+  rotate: false
+  xy: 462, 2
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+suipian3
+  rotate: true
+  xy: 530, 3
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+suipian4
+  rotate: false
+  xy: 597, 40
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 226, 72
+  size: 316, 92
+  orig: 316, 92
+  offset: 0, 0
+  index: -1

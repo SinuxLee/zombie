@@ -1,0 +1,76 @@
+
+flower11.png
+size: 280,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL
+  rotate: false
+  xy: 80, 7
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+armR
+  rotate: false
+  xy: 120, 8
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 142, 52
+  size: 45, 120
+  orig: 45, 120
+  offset: 0, 0
+  index: -1
+bot1
+  rotate: false
+  xy: 2, 6
+  size: 76, 21
+  orig: 76, 21
+  offset: 0, 0
+  index: -1
+bot2
+  rotate: false
+  xy: 215, 2
+  size: 51, 14
+  orig: 51, 14
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 215, 18
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+flower
+  rotate: false
+  xy: 2, 29
+  size: 138, 143
+  orig: 138, 143
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 189, 108
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 156, 4
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+mouthB
+  rotate: false
+  xy: 189, 54
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1

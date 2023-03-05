@@ -1,0 +1,13 @@
+
+fx_arrow.png
+size: 32,44
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: false
+  xy: 2, 2
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+enemy8.png
+size: 684,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armLlow
+  rotate: false
+  xy: 534, 2
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+armLup
+  rotate: false
+  xy: 656, 63
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+armRlow
+  rotate: false
+  xy: 611, 153
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+armRup
+  rotate: false
+  xy: 611, 46
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 449, 11
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 449, 96
+  size: 89, 106
+  orig: 89, 106
+  offset: 0, 0
+  index: -1
+footL
+  rotate: false
+  xy: 540, 154
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+footR
+  rotate: false
+  xy: 540, 104
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 10
+  size: 257, 192
+  orig: 257, 192
+  offset: 0, 0
+  index: -1
+handL
+  rotate: false
+  xy: 611, 82
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+handR
+  rotate: false
+  xy: 647, 156
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 261, 6
+  size: 186, 196
+  orig: 186, 196
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 534, 43
+  size: 75, 51
+  orig: 75, 51
+  offset: 0, 0
+  index: -1
+legLlow
+  rotate: false
+  xy: 587, 7
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+legLup
+  rotate: false
+  xy: 635, 2
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+legRlow
+  rotate: false
+  xy: 611, 117
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+legRup
+  rotate: false
+  xy: 656, 19
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+fx_stun.png
+size: 312,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shape 1
+  rotate: true
+  xy: 226, 16
+  size: 85, 83
+  orig: 95, 91
+  offset: 5, 4
+  index: -1
+ring
+  rotate: false
+  xy: 2, 2
+  size: 222, 99
+  orig: 224, 101
+  offset: 1, 1
+  index: -1

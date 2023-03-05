@@ -1,0 +1,34 @@
+
+bt_free_gems.png
+size: 248,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 188, 2
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 117, 62
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+flash
+  rotate: false
+  xy: 2, 15
+  size: 113, 131
+  orig: 113, 131
+  offset: 0, 0
+  index: -1
+watch
+  rotate: false
+  xy: 117, 11
+  size: 69, 49
+  orig: 69, 49
+  offset: 0, 0
+  index: -1

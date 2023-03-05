@@ -1,0 +1,34 @@
+
+pot3.png
+size: 104,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 37
+  size: 97, 102
+  orig: 97, 102
+  offset: 0, 0
+  index: -1
+leaf0
+  rotate: false
+  xy: 83, 2
+  size: 11, 33
+  orig: 11, 33
+  offset: 0, 0
+  index: -1
+leaf1
+  rotate: false
+  xy: 44, 12
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 2, 10
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1

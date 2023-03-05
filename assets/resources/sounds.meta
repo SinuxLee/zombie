@@ -1,0 +1,21 @@
+{
+  "ver": "1.1.3",
+  "uuid": "0a362179-e2e2-4c57-9320-dde9136d9ffb",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "sounds",
+  "priority": 5,
+  "compressionType": {
+    "wechatgame": "subpackage",
+    "baidugame": "subpackage",
+    "xiaomi": "subpackage",
+    "quickgame": "subpackage",
+    "qgame": "subpackage",
+    "huawei": "subpackage",
+    "cocos-runtime": "subpackage"
+  },
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

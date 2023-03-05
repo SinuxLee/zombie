@@ -1,0 +1,76 @@
+
+enemy4.png
+size: 440,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armLlow
+  rotate: false
+  xy: 358, 165
+  size: 78, 55
+  orig: 78, 55
+  offset: 0, 0
+  index: -1
+armLup
+  rotate: false
+  xy: 386, 85
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+armRlow
+  rotate: false
+  xy: 239, 11
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+armRup
+  rotate: false
+  xy: 319, 4
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 239, 74
+  size: 117, 146
+  orig: 117, 146
+  offset: 0, 0
+  index: -1
+footL
+  rotate: false
+  xy: 358, 128
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+footR
+  rotate: false
+  xy: 378, 46
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 235, 218
+  orig: 235, 218
+  offset: 0, 0
+  index: -1
+legL
+  rotate: false
+  xy: 378, 4
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+legR
+  rotate: false
+  xy: 358, 83
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1

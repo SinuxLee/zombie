@@ -1,0 +1,90 @@
+
+enemy5.png
+size: 500,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armLlow
+  rotate: false
+  xy: 299, 74
+  size: 133, 60
+  orig: 133, 60
+  offset: 0, 0
+  index: -1
+armLup
+  rotate: false
+  xy: 436, 130
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+armRlow
+  rotate: false
+  xy: 299, 136
+  size: 135, 63
+  orig: 135, 63
+  offset: 0, 0
+  index: -1
+armRup
+  rotate: false
+  xy: 434, 46
+  size: 53, 82
+  orig: 53, 82
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 206, 59
+  size: 91, 140
+  orig: 91, 140
+  offset: 0, 0
+  index: -1
+footL
+  rotate: false
+  xy: 299, 26
+  size: 72, 46
+  orig: 72, 46
+  offset: 0, 0
+  index: -1
+footR
+  rotate: false
+  xy: 206, 9
+  size: 77, 48
+  orig: 77, 48
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 202, 197
+  orig: 202, 197
+  offset: 0, 0
+  index: -1
+legLlow
+  rotate: false
+  xy: 464, 4
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+legRlow
+  rotate: false
+  xy: 464, 4
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+legLup
+  rotate: false
+  xy: 421, 4
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+legRup
+  rotate: false
+  xy: 373, 27
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1

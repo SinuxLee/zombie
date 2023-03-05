@@ -1,0 +1,48 @@
+
+jiansu.png
+size: 200,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zap_00
+  rotate: false
+  xy: 2, 36
+  size: 141, 33
+  orig: 141, 33
+  offset: 0, 0
+  index: -1
+zap_01
+  rotate: false
+  xy: 2, 107
+  size: 140, 35
+  orig: 140, 35
+  offset: 0, 0
+  index: -1
+zap_02
+  rotate: false
+  xy: 2, 71
+  size: 141, 34
+  orig: 141, 34
+  offset: 0, 0
+  index: -1
+zap_03
+  rotate: false
+  xy: 2, 2
+  size: 141, 32
+  orig: 141, 32
+  offset: 0, 0
+  index: -1
+zap_04
+  rotate: true
+  xy: 145, 6
+  size: 136, 29
+  orig: 136, 29
+  offset: 0, 0
+  index: -1
+zap_05
+  rotate: true
+  xy: 176, 13
+  size: 129, 22
+  orig: 129, 22
+  offset: 0, 0
+  index: -1

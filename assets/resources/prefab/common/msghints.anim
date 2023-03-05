@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "msghints",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.75,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.21666666666666667,
+          "value": 1
+        }
+      ],
+      "y": [
+        {
+          "frame": 0,
+          "value": 100
+        },
+        {
+          "frame": 0.8,
+          "value": 100
+        },
+        {
+          "frame": 1.75,
+          "value": 200
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 1.0166666666666666,
+          "value": 255
+        },
+        {
+          "frame": 1.6333333333333333,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.48333333333333334,
+      "func": "center",
+      "params": []
+    }
+  ]
+}

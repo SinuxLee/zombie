@@ -1,0 +1,20 @@
+
+bt_auto_merge.png
+size: 196,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 2
+  size: 166, 158
+  orig: 166, 158
+  offset: 0, 0
+  index: -1
+l0
+  rotate: false
+  xy: 170, 111
+  size: 22, 49
+  orig: 22, 49
+  offset: 0, 0
+  index: -1

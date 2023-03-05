@@ -1,0 +1,97 @@
+
+enemy1.png
+size: 400,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armLLow
+  rotate: false
+  xy: 308, 112
+  size: 89, 51
+  orig: 89, 51
+  offset: 0, 0
+  index: -1
+armLUp
+  rotate: false
+  xy: 275, 13
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+armRLow
+  rotate: false
+  xy: 308, 165
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+armRUp
+  rotate: false
+  xy: 335, 59
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 214, 121
+  size: 92, 99
+  orig: 92, 99
+  offset: 0, 0
+  index: -1
+footL
+  rotate: false
+  xy: 214, 45
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+footR
+  rotate: false
+  xy: 214, 45
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 13
+  size: 210, 207
+  orig: 210, 207
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 214, 80
+  size: 78, 39
+  orig: 78, 39
+  offset: 0, 0
+  index: -1
+legLLow
+  rotate: false
+  xy: 322, 3
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+legLUp
+  rotate: false
+  xy: 214, 2
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+legRLow
+  rotate: false
+  xy: 294, 58
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+legRUp
+  rotate: false
+  xy: 360, 15
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1

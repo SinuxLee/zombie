@@ -1,0 +1,13 @@
+
+fx_ground_merge.png
+size: 292,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l0
+  rotate: false
+  xy: 2, 2
+  size: 285, 206
+  orig: 285, 206
+  offset: 0, 0
+  index: -1

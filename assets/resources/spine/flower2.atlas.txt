@@ -1,0 +1,55 @@
+
+flower2.png
+size: 236,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 214, 25
+  size: 18, 85
+  orig: 18, 85
+  offset: 0, 0
+  index: -1
+bot1
+  rotate: false
+  xy: 104, 73
+  size: 108, 37
+  orig: 108, 37
+  offset: 0, 0
+  index: -1
+bot2
+  rotate: false
+  xy: 104, 50
+  size: 83, 21
+  orig: 83, 21
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 170, 23
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 170, 2
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 5
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 104, 18
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1

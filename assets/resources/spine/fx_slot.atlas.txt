@@ -1,0 +1,27 @@
+
+fx_slot.png
+size: 252,596
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e0
+  rotate: false
+  xy: 2, 340
+  size: 248, 251
+  orig: 248, 251
+  offset: 0, 0
+  index: -1
+lock
+  rotate: false
+  xy: 2, 171
+  size: 248, 167
+  orig: 248, 167
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 2, 2
+  size: 248, 167
+  orig: 248, 167
+  offset: 0, 0
+  index: -1

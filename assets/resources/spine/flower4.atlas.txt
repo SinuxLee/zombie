@@ -1,0 +1,62 @@
+
+flower4.png
+size: 272,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 234, 22
+  size: 21, 66
+  orig: 21, 66
+  offset: 0, 0
+  index: -1
+bot1
+  rotate: false
+  xy: 144, 50
+  size: 83, 33
+  orig: 83, 33
+  offset: 0, 0
+  index: -1
+bot2
+  rotate: false
+  xy: 207, 90
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 207, 113
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 144, 8
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+face3
+  rotate: false
+  xy: 190, 12
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+flower
+  rotate: false
+  xy: 2, 2
+  size: 140, 143
+  orig: 140, 143
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 144, 85
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1

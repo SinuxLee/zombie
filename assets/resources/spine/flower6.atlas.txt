@@ -1,0 +1,62 @@
+
+flower6.png
+size: 232,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL
+  rotate: false
+  xy: 161, 14
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+armR
+  rotate: false
+  xy: 134, 12
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 213, 35
+  size: 15, 69
+  orig: 15, 69
+  offset: 0, 0
+  index: -1
+bot
+  rotate: false
+  xy: 134, 106
+  size: 94, 35
+  orig: 94, 35
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 2, 2
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 134, 33
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+face3
+  rotate: false
+  xy: 134, 70
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 13
+  size: 130, 128
+  orig: 130, 128
+  offset: 0, 0
+  index: -1

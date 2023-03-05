@@ -1,0 +1,83 @@
+
+flower16.png
+size: 300,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL
+  rotate: false
+  xy: 162, 64
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+armR
+  rotate: false
+  xy: 222, 17
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 129, 27
+  size: 31, 95
+  orig: 31, 95
+  offset: 0, 0
+  index: -1
+bot
+  rotate: false
+  xy: 129, 6
+  size: 76, 19
+  orig: 76, 19
+  offset: 0, 0
+  index: -1
+brownL
+  rotate: false
+  xy: 236, 6
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+brownR
+  rotate: false
+  xy: 218, 3
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+eyeL
+  rotate: false
+  xy: 207, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+eyeR
+  rotate: false
+  xy: 207, 16
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 4
+  size: 125, 118
+  orig: 125, 118
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 162, 32
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 228, 82
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1

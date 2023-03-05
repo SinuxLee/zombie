@@ -1,0 +1,97 @@
+
+enemy12.png
+size: 284,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL
+  rotate: false
+  xy: 2, 2
+  size: 102, 64
+  orig: 102, 64
+  offset: 0, 0
+  index: -1
+armR
+  rotate: false
+  xy: 2, 68
+  size: 128, 93
+  orig: 128, 93
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 184, 17
+  size: 97, 121
+  orig: 97, 121
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 191, 140
+  size: 70, 150
+  orig: 70, 150
+  offset: 0, 0
+  index: -1
+footL
+  rotate: false
+  xy: 217, 292
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+footR
+  rotate: false
+  xy: 217, 358
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 2, 337
+  size: 213, 195
+  orig: 213, 195
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 163
+  size: 187, 172
+  orig: 187, 172
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 132, 81
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+legLlow
+  rotate: false
+  xy: 132, 120
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+legLup
+  rotate: false
+  xy: 217, 401
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+legRlow
+  rotate: false
+  xy: 132, 28
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+legRup
+  rotate: false
+  xy: 217, 471
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1

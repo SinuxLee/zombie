@@ -1,0 +1,55 @@
+
+flower10.png
+size: 340,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 139, 3
+  size: 22, 69
+  orig: 22, 69
+  offset: 0, 0
+  index: -1
+bot1
+  rotate: false
+  xy: 139, 74
+  size: 121, 58
+  orig: 121, 58
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 283, 11
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 244, 2
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+face3
+  rotate: false
+  xy: 163, 15
+  size: 79, 57
+  orig: 79, 57
+  offset: 0, 0
+  index: -1
+flower
+  rotate: false
+  xy: 2, 3
+  size: 135, 129
+  orig: 135, 129
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 262, 50
+  size: 75, 82
+  orig: 75, 82
+  offset: 0, 0
+  index: -1

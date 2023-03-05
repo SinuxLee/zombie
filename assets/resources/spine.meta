@@ -1,0 +1,21 @@
+{
+  "ver": "1.1.3",
+  "uuid": "679d5931-075c-4949-91cf-e98f02ba40cf",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "spine",
+  "priority": 5,
+  "compressionType": {
+    "wechatgame": "subpackage",
+    "baidugame": "subpackage",
+    "xiaomi": "subpackage",
+    "quickgame": "subpackage",
+    "qgame": "subpackage",
+    "huawei": "subpackage",
+    "cocos-runtime": "subpackage"
+  },
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

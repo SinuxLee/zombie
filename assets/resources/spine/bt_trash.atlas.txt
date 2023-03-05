@@ -1,0 +1,27 @@
+
+bt_trash.png
+size: 316,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 5
+  size: 133, 135
+  orig: 133, 135
+  offset: 0, 0
+  index: -1
+cover
+  rotate: false
+  xy: 137, 2
+  size: 134, 65
+  orig: 134, 65
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 137, 69
+  size: 174, 71
+  orig: 174, 71
+  offset: 0, 0
+  index: -1

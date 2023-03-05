@@ -1,0 +1,55 @@
+
+flower8.png
+size: 148,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 71, 37
+  size: 27, 85
+  orig: 27, 85
+  offset: 0, 0
+  index: -1
+bot
+  rotate: false
+  xy: 48, 3
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 100, 44
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 2, 2
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+face3
+  rotate: false
+  xy: 100, 82
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+flower
+  rotate: false
+  xy: 2, 124
+  size: 136, 128
+  orig: 136, 128
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 54
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1

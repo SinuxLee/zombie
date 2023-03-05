@@ -1,0 +1,76 @@
+
+flower9.png
+size: 412,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL
+  rotate: false
+  xy: 338, 2
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+armR
+  rotate: false
+  xy: 365, 4
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 391, 46
+  size: 19, 51
+  orig: 19, 51
+  offset: 0, 0
+  index: -1
+bot
+  rotate: false
+  xy: 136, 49
+  size: 121, 48
+  orig: 121, 48
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 338, 27
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 207, 3
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+face3
+  rotate: false
+  xy: 338, 62
+  size: 51, 35
+  orig: 51, 35
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 136, 21
+  size: 69, 26
+  orig: 69, 26
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 16
+  size: 132, 81
+  orig: 132, 81
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 259, 2
+  size: 77, 95
+  orig: 77, 95
+  offset: 0, 0
+  index: -1

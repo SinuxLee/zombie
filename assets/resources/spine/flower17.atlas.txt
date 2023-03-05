@@ -1,0 +1,139 @@
+
+flower17.png
+size: 440,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL
+  rotate: false
+  xy: 299, 45
+  size: 55, 45
+  orig: 55, 45
+  offset: 0, 0
+  index: -1
+armR
+  rotate: false
+  xy: 356, 47
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 18
+  size: 46, 123
+  orig: 46, 123
+  offset: 0, 0
+  index: -1
+bot
+  rotate: false
+  xy: 358, 3
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+breadL
+  rotate: false
+  xy: 333, 93
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+breadR
+  rotate: false
+  xy: 50, 2
+  size: 82, 52
+  orig: 82, 52
+  offset: 0, 0
+  index: -1
+brown
+  rotate: false
+  xy: 2, 8
+  size: 31, 8
+  orig: 31, 8
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 220, 5
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+face3
+  rotate: false
+  xy: 299, 9
+  size: 57, 34
+  orig: 57, 34
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 50, 56
+  size: 59, 85
+  orig: 59, 85
+  offset: 0, 0
+  index: -1
+headB
+  rotate: false
+  xy: 399, 34
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+headL1
+  rotate: false
+  xy: 170, 83
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+headL2
+  rotate: false
+  xy: 111, 74
+  size: 57, 67
+  orig: 57, 67
+  offset: 0, 0
+  index: -1
+headR1
+  rotate: false
+  xy: 220, 24
+  size: 77, 57
+  orig: 77, 57
+  offset: 0, 0
+  index: -1
+headR2
+  rotate: false
+  xy: 134, 7
+  size: 84, 65
+  orig: 84, 65
+  offset: 0, 0
+  index: -1
+headR2_item
+  rotate: false
+  xy: 399, 65
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 289, 92
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+mouthBot1
+  rotate: false
+  xy: 236, 85
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+mouthBot2
+  rotate: false
+  xy: 407, 109
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1

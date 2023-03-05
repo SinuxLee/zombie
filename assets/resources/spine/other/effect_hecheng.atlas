@@ -1,0 +1,34 @@
+
+effect_hecheng.png
+size: 520,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1110
+  rotate: false
+  xy: 260, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+MMCG_taobao_8
+  rotate: false
+  xy: 2, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+kt (505)
+  rotate: false
+  xy: 260, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shock
+  rotate: false
+  xy: 390, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

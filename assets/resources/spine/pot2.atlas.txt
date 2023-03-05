@@ -1,0 +1,34 @@
+
+pot2.png
+size: 200,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 3
+  size: 115, 92
+  orig: 115, 92
+  offset: 0, 0
+  index: -1
+leaf0
+  rotate: false
+  xy: 182, 3
+  size: 13, 43
+  orig: 13, 43
+  offset: 0, 0
+  index: -1
+leaf1
+  rotate: false
+  xy: 119, 2
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 119, 48
+  size: 76, 47
+  orig: 76, 47
+  offset: 0, 0
+  index: -1

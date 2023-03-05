@@ -1,0 +1,48 @@
+
+die.png
+size: 579,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozhai_1
+  rotate: false
+  xy: 547, 88
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+baozhai_2
+  rotate: false
+  xy: 441, 14
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+baozhai_3
+  rotate: false
+  xy: 117, 6
+  size: 109, 112
+  orig: 109, 112
+  offset: 0, 0
+  index: -1
+baozhai_4
+  rotate: false
+  xy: 2, 2
+  size: 113, 116
+  orig: 113, 116
+  offset: 0, 0
+  index: -1
+baozhai_5
+  rotate: true
+  xy: 228, 10
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+baozhai_6
+  rotate: false
+  xy: 334, 13
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1

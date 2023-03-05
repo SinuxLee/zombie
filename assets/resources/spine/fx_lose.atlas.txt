@@ -1,0 +1,76 @@
+
+fx_lose.png
+size: 1916,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black
+  rotate: false
+  xy: 1811, 105
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 848, 335
+  size: 774, 175
+  orig: 774, 175
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 1787, 207
+  size: 108, 115
+  orig: 108, 115
+  offset: 0, 0
+  index: -1
+e1
+  rotate: false
+  xy: 848, 19
+  size: 349, 314
+  orig: 349, 314
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 1199, 86
+  size: 377, 247
+  orig: 377, 247
+  offset: 0, 0
+  index: -1
+fade
+  rotate: false
+  xy: 1199, 2
+  size: 390, 82
+  orig: 390, 82
+  offset: 0, 0
+  index: -1
+l0
+  rotate: false
+  xy: 2, 40
+  size: 844, 470
+  orig: 844, 470
+  offset: 0, 0
+  index: -1
+p1
+  rotate: false
+  xy: 1578, 116
+  size: 207, 206
+  orig: 207, 206
+  offset: 0, 0
+  index: -1
+p2
+  rotate: false
+  xy: 1624, 324
+  size: 273, 186
+  orig: 273, 186
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 1591, 23
+  size: 218, 91
+  orig: 218, 91
+  offset: 0, 0
+  index: -1
